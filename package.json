@@ -1,0 +1,16 @@
+{
+    "name": "git-parser",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": ""
+    },
+    "keywords": [],
+    "author": "bolaxd",
+    "license": "ISC",
+    "dependencies": {
+        "undici": "^6.2.1"
+    }
+}
